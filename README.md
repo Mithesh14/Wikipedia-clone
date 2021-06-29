@@ -15,7 +15,7 @@
 
 ![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image4.jpg)
 
-## ➡️ On clicking the box , it will lead to the wikipedia where you will get to know more about the topic present in that box ❗
+## ➡️ On clicking the box , it will lead to the wikipedia page of the corresponding topic present in the box ❗
 
 ![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image5.jpg)
 
