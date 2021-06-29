@@ -3,7 +3,7 @@
 
 # Project link
 
-<a href="https://mithesh14.github.io/Github-profile/">Wikipedia Clone</a>
+<a href="https://mithesh14.github.io/Wikipedia-clone/">Wikipedia Clone</a>
 
 # Screenshots 
 
