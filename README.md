@@ -27,4 +27,9 @@
 
 ![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image10.jpg)
 
+➡️ If either there is no data available for your search or your search has errors, the page will display this ❗
+
 ![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image11.jpg)
+
+➡️ The API used for wikipedia data : https://en.wikipedia.org/w/api.php? ❗
+
