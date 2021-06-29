@@ -25,9 +25,9 @@
 
 ![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image9.jpg)
 
-![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image10.jpg)
-
 ➡️ If either there is no data available for your search or your search has errors, the page will display this ❗
+
+![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image10.jpg)
 
 ![screenshots](https://github.com/Mithesh14/Wikipedia-clone/blob/main/images/image11.jpg)
 
